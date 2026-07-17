@@ -5,9 +5,9 @@ site_url: https://eee616.github.io/Hello.github.lo/
 
 nav:
   - 首页: index.md
-  - 第一部分:
+  - 随笔:
     - Part1/index.md
-  - 第二部分:
+  - 记事簿:
     - Part2/index.md
 
 
