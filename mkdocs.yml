@@ -1,5 +1,7 @@
-site_name: Eee616 的仓库
+
+site_name: Eee's blog
 site_url: https://eee616.github.io/Hello.github.lo/
+
 
 nav:
   - 首页: index.md
@@ -7,25 +9,46 @@ nav:
     - Part1/index.md
   - 第二部分:
     - Part2/index.md
-  - 第三部分:
-    - Part3/index.md
+
 
 theme:
   name: material
+  
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: 切换深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: 切换浅色模式
+  
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+ 
+  icon:
+    logo: material/book-open-page-variant
+ 
   features:
-    - navigation.tabs
+    - navigation.tabs         
+    - navigation.tabs.sticky   
+    - navigation.top           
     - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.indexes
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
     - search.highlight
     - search.share
     - navigation.top
