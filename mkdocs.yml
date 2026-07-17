@@ -1,4 +1,22 @@
-site_name: My Docs
-theme :
- name : material
+site_name: Eee616 的仓库
+site_url: https://eee616.github.io/Hello.github.lo/
+
+nav:
+  - 首页: index.md
+  - 第一部分:
+    - Part1/index.md
+  - 第二部分:
+    - Part2/index.md
+  - 第三部分:
+    - Part3/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.top
+    - navigation.indexes
  
