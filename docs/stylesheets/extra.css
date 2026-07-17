@@ -1,0 +1,11 @@
+.md-hero {
+    background-image: url("../assets/1212.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.md-hero__content {
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 8px;
+    padding: 2rem;
+}
