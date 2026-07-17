@@ -1,5 +1,3 @@
-# Welcome to Eee's blog
-
 ---
 hero:
   image: assets/1212.png
@@ -12,6 +10,7 @@ hero:
     - text: GitHub仓库
       link: https://github.com/Eee616/Hello.github.lo
 ---
+# Welcome to Eee's blog
 
 # 缘起
 
