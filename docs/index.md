@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Welcome to Eee's blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
+hero:
+  image: assets/1212.png
+  title: Hello
+  subtitle: 个人文档笔记站点
+  actions:
+    - text: 开始阅读
+      link: "/Part1/"
+      primary: true
+    - text: GitHub仓库
+      link: https://github.com/Eee616/Hello.github.lo
+---
 
-## Commands
+# 缘起
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+这里是一个bolg网页，欢迎你！：D
