@@ -55,8 +55,8 @@ extra_css:
 
 extra:
   social:
-   -icon: fontawesome/brands/github
-    link: https://github.com/Eee616
-  - icon: fontawesome/solid/paper-plane
-    link: mailto:cy06-20@qq.com
-copyright: Copyright &copy; 2026 Eee
+    - icon: fontawesome/brands/github
+      link: https://github.com/Eee616
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:cy06-20@qq.com
+  copyright: Copyright &copy; 2026 Eee
