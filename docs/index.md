@@ -15,3 +15,4 @@ hero:
 # 缘起
 
 这里是一个blog网页，欢迎你！：D
+See you tomorrow is the greatest prophecy in the world.
