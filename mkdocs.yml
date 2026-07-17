@@ -65,5 +65,9 @@ plugins:
   - search
   - blog:
       blog_dir: Part1
+      archive: false
+      categories: false
   - blog:
       blog_dir: Part2
+      archive: false
+      categories: false
