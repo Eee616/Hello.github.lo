@@ -65,3 +65,7 @@ plugins:
   - search
   - blog:
       blog_dir: Part1
+      blog_name: 随笔
+  - blog:
+      blog_dir: Part2
+      blog_name: 记事簿
