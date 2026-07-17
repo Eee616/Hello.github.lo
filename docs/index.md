@@ -14,5 +14,8 @@ hero:
 
 # 缘起
 
-这里是一个blog网页，欢迎你！：D
+这里是一个blog，欢迎你！：D
+
 See you tomorrow is the greatest prophecy in the world.
+
+随手记录了一些杂七杂八的东西，希望你看得开心
